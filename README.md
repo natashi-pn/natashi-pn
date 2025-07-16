@@ -1,5 +1,5 @@
 
-<h4>Hello!! It's natashi 🤝 Zwe Htet Myek</h4>
+<h3>Haloo I'm Natashi 🤝 Zwe Htet Myek</h3>
 Passionate Full-Stack Developer | UI/UX Designer | Crafting Brand-Driven Web Designs
 
 <h4>About Me</h4>
