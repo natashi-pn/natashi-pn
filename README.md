@@ -1,7 +1,5 @@
-<h1 align="center">Haloo 👋, I'm natashi (Zwe Htet Myek)</h1>
+<h1 align="center">Hello!!, I'm natashi (Zwe Htet Myek)</h1>
 <h3 align="center">Passionate Full-Stack Developer | UI/UX Designer | Crafting Brand-Driven Web Designs</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natashi-pn" alt="natashi-pn" /></a> </p>
 
 - 🔭 I’m currently working on [**Kaivera**](kaivera.kesug.com/)
 
