@@ -1,7 +1,7 @@
 <h1 align="center">Hello!!, I'm natashi (Zwe Htet Myek)</h1>
 <h3 align="center">Passionate Full-Stack Developer | UI/UX Designer | Crafting Brand-Driven Web Designs</h3>
 
-- 🔭 I’m currently working on [**Kaivera**](kaivera.kesug.com/)
+- 🔭 I’m currently working on [**Kaivera**](https://github.com/natashi-pn/kaivera_ecommerce)
 
 - 🌱 I’m currently learning **React & Next**
 
