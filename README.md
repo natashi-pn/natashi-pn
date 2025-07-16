@@ -1,13 +1,13 @@
 
 <h4 align="center">Hello!!, I'm natashi (Zwe Htet Myek) Passionate Full-Stack Developer | UI/UX Designer | Crafting Brand-Driven Web Designs</h4>
 
- 🔭 I’m currently working on [**Kaivera**](https://github.com/natashi-pn/kaivera_ecommerce)
- 🌱 I’m currently learning **React & Next**
- 👨‍💻 All of my projects are available at [https://github.com/natashi-pn](https://github.com/natashi-pn)
- 📝 I regularly post developement time lapses on [https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr)
- 💬 Ask me about **Frontend developments and Design Principles**
- 📫 Reach me **davleo104337@gmail.com**
- ⚡ Fun fact **I've been playing piano and guitar since 2022 so I'm quite good at it :D**
+ -🔭 I’m currently working on [**Kaivera**](https://github.com/natashi-pn/kaivera_ecommerce)
+ -🌱 I’m currently learning **React & Next**
+ -👨‍💻 All of my projects are available at [https://github.com/natashi-pn](https://github.com/natashi-pn)
+ -📝 I regularly post developement time lapses on [https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr)
+ -💬 Ask me about **Frontend developments and Design Principles**
+ -📫 Reach me **davleo104337@gmail.com**
+ -⚡ Fun fact **I've been playing piano and guitar since 2022 so I'm quite good at it :D**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
