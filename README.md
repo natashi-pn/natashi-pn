@@ -1,16 +1,11 @@
-<h1 align="center">Hello!!, I'm natashi (Zwe Htet Myek)</h1>
-<h3 align="center">Passionate Full-Stack Developer | UI/UX Designer | Crafting Brand-Driven Web Designs</h3>
+<h3 align="center">Hello!!, I'm natashi (Zwe Htet Myek)</h3>
+<h4 align="center">Passionate Full-Stack Developer | UI/UX Designer | Crafting Brand-Driven Web Designs</h4>
 
 - 🔭 I’m currently working on [**Kaivera**](https://github.com/natashi-pn/kaivera_ecommerce)
-
 - 🌱 I’m currently learning **React & Next**
-
 - 👨‍💻 All of my projects are available at [https://github.com/natashi-pn](https://github.com/natashi-pn)
-
 - 📝 I regularly post developement time lapses on [https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr)
-
 - 💬 Ask me about **Frontend developments and Design Principles**
-
 - 📫 How to reach me **davleo104337@gmail.com**
 
 - ⚡ Fun fact **I've been playing piano and guitar since 2022 so I'm quite good at it :D**
