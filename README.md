@@ -3,13 +3,14 @@
 <h5>Passionate Full-Stack Developer | UI/UX Designer | Crafting Brand-Driven Web Designs</h5>
 
 <h4>About Me</h4>
+<p>
 👨‍💻 Studied at ACE Inspiration, KBTC College & currently finishing my 2nd year at Info Myanmar College </br>
  🔭 I’m currently working on E-Commerce Website [Kaivera](https://github.com/natashi-pn/kaivera_ecommerce) </br>
  👨‍💻 All of my projects are available at [myGithub](https://github.com/natashi-pn) </br>
  📝 I regularly post developement time lapses on [Htet Myek](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr) </br></br>
 
  ⚡ Fun fact **I've been playing piano and guitar since 2022 so I'm quite good at it :D** </br>
-
+</p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/natashi_pn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](davleo104337@gmail.com) 
 
