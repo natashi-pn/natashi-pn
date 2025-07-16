@@ -1,5 +1,6 @@
 
-<h4 align="center">Hello!!, I'm natashi (Zwe Htet Myek) Passionate Full-Stack Developer | UI/UX Designer | Crafting Brand-Driven Web Designs</h4>
+<h3>Hello!! it's natashi (Zwe Htet Myek) </h3>
+<h4>Passionate Full-Stack Developer | UI/UX Designer | Crafting Brand-Driven Web Designs</h4>
 
 👨‍💻 Studied at ACE Inspiration, KBTC College & currently finishing my 2nd year at Info Myanmar College </br>
  🔭 I’m currently working on E-Commerce Website [Kaivera](https://github.com/natashi-pn/kaivera_ecommerce) </br>
