@@ -1,15 +1,15 @@
 
-<h3>Haloo I'm Zwe Htet Myek aka Natashi👋</h3>
-Passionate Full-Stack Developer | UI/UX Designer | Crafting Brand-Driven Web Designs
+<h3>Haloo Its Zwe Htet Myek aka Natashi👋</h3>
+I'm Passionate Full-Stack Developer | UI/UX Designer | Video Editor
 
 <h4>About Me</h4>
 
-👨‍💻 Studied at **ACE Inspiration**, **KBTC College** & currently finishing my 2nd year of HND at **Info Myanmar College**</br>
- 🔭 I’m currently working on E-Commerce Website [Kaivera](https://github.com/natashi-pn/kaivera_ecommerce) </br>
- 👨‍💻 All of my projects are available at [myGithub](https://github.com/natashi-pn) </br>
- 📝 I regularly post developement time lapses on [Htet Myek](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr) </br></br>
+-Studied at **ACE Inspiration**, **KBTC College** & currently finishing my 2nd year of HND at **Info Myanmar College**</br>
+-I’m currently working on E-Commerce Website [Kaivera](https://github.com/natashi-pn/kaivera_ecommerce) </br>
+-All of my projects are available at [myGithub](https://github.com/natashi-pn) </br>
+-I regularly post developement time lapses on [Htet Myek](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr) </br></br>
 
- ⚡ Fun fact **I've been playing piano and guitar since 2022 so I'm quite good at it :D** </br>
+Fun fact **I've been playing piano and guitar since 2022 so I'm quite good at it 😼** </br>
 
 
 ## 🌐 Socials:
