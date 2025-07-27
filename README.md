@@ -1,5 +1,5 @@
-
-<h3>Haloo Its Zwe Htet Myek aka Natashi <img src="https://github.githubassets.com/assets/electron-fef70acde3b4.png" width="40" />
+<img src="https://github.githubassets.com/assets/electron-fef70acde3b4.png" width="30" />
+<h3>Haloo Its Zwe Htet Myek aka Natashi 
 </h3>
 I'm Passionate Full-Stack Developer | UI/UX Designer | Video Editor
 
