@@ -10,8 +10,7 @@ I'm Passionate Full-Stack Developer | UI/UX Designer | Video Editor
 - All of my projects are available at [myGithub](https://github.com/natashi-pn) </br>
 - I post developement time lapses on my facebook [Htet Myek](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr) </br></br>
 
-<h4>Fun fact **I've been playing piano and guitar since 2022 so I'm quite good at it 😼** </br></h4>
-
+<h4>Fun fact - I've been playing piano and guitar since 2022 so I'm quite good at it. 😼</br></h4>
 
 
 ## 🌐 Socials:
