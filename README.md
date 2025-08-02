@@ -10,7 +10,11 @@
 - All of my projects are available at [myGithub](https://github.com/natashi-pn) </br>
 - I post developement time lapses on my facebook [Htet Myek](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr) </br></br>
 
-<h4>Fun fact - I've been playing piano and guitar since 2022 so I'm quite good at it. 😼</br></h4>
+<h4>Fun facts!</h4> 
+- I love to play Piano and Guitar and been playing since 2022 so I'm quite good at it 😼.<br>
+- I've been doing motion graphic edits with After Effects, Alightmotion for decades. <br>
+- Started exploring Photoshop in 2023 and now use it regularly for graphic designs. <br>
+- Jumped into UI/UX design in 2025 user-centered interactions and user-friendly interfaces is my current focus. <br>
 
 
 ### 🌐 Socials:
