@@ -1,5 +1,5 @@
 
-<h3>Hi, its Zwe Htet Myek aka Zen <img src="https://github.githubassets.com/assets/electron-fef70acde3b4.png" width="20" />
+<h3>Hi, its Zwe Htet Myek aka Zenn <img src="https://github.githubassets.com/assets/electron-fef70acde3b4.png" width="20" />
 </h3>
 - I'm a Passionate Full-Stack Developer | Graphic Designer | Video Editor
 
