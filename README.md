@@ -1,21 +1,21 @@
 
-<h3>Hi, its Zwe Htet Myek aka Natashi <img src="https://github.githubassets.com/assets/electron-fef70acde3b4.png" width="20" />
+<h3>Hi, its Zwe Htet Myek aka Zen <img src="https://github.githubassets.com/assets/electron-fef70acde3b4.png" width="20" />
 </h3>
-- I'm Passionate Full-Stack Developer | UI/UX Designer | Video Editor
+- I'm a Passionate Full-Stack Developer | Graphic Designer | Video Editor
 
 <h4>About Me</h4>
 
-- Studied at **ACE Inspiration**, **KBTC College** & currently finishing my 2nd year of HND at **Info Myanmar College**</br>
+- Studied programming at **ACE Inspiration**, **KBTC College** & graduated my HND Diploma at **Info Myanmar College**</br>
 
-- All of my projects are available at [myGithub](https://github.com/natashi-pn) </br>
-- I post developement time lapses on my facebook [Htet Myek](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr) </br></br>
+- All my projects are available at [myGithub](https://github.com/natashi-pn) </br>
+- I post developement time-lapses on my social platforms [Htet Myek](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr) </br></br>
 
 <h4>Fun facts!</h4> 
 
 - I love to play Piano and Guitar and been playing since 2022 so I've become quite good at it 😼</br>
 - I've been doing motion graphic edits using After Effects, Alight-Motion </br>
 - I started the Photoshop in 2023 and now use it regularly for Graphic Designs </br>
-- Jumped into UI/UX design in 2025 building user-centered interactions and user-friendly interfaces </br>
+- I Jumped into UI/UX design in 2025 building user-centered interactions and user-friendly interfaces </br>
 
 
 ### 🌐 Socials:
