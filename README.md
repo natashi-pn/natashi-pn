@@ -6,16 +6,16 @@
 <h4>About Me</h4>
 
 - Studied at **ACE Inspiration**, **KBTC College** & currently finishing my 2nd year of HND at **Info Myanmar College**</br>
-- I’m currently working on E-Commerce Website [Kaivera](https://kaivera23.wuaze.com) </br>
+
 - All of my projects are available at [myGithub](https://github.com/natashi-pn) </br>
 - I post developement time lapses on my facebook [Htet Myek](https://www.facebook.com/share/1ASE4immeE/?mibextid=wwXIfr) </br></br>
 
 <h4>Fun facts!</h4> 
 
-- I love to play Piano and Guitar and been playing since 2022 so I'm quite good at it 😼</br>
-- I've been doing motion graphic edits with After Effects, Alightmotion for decade </br>
-- Started exploring Photoshop in 2023 and now use it regularly for graphic designs </br>
-- Jumped into UI/UX design in 2025 user-centered interactions and user-friendly interfaces is my current focus </br>
+- I love to play Piano and Guitar and been playing since 2022 so I've become quite good at it 😼</br>
+- I've been doing motion graphic edits using After Effects, Alight-Motion </br>
+- I started the Photoshop in 2023 and now use it regularly for Graphic Designs </br>
+- Jumped into UI/UX design in 2025 building user-centered interactions and user-friendly interfaces </br>
 
 
 ### 🌐 Socials:
